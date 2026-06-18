@@ -1,0 +1,6 @@
+{
+  "name": "BEO Extracted Items Reviewer",
+  "description": "Enterprise review screen for verifying AI-extracted banquet line items, designed for modern banquet operational workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
